@@ -1,0 +1,14 @@
+{
+    "monthly":{
+        "days":30,
+        "fee":3000
+    },
+    "half-yearly":{
+        "days":180,
+        "fee":15000
+    },
+    "yearly":{
+        "days":365,
+        "fee":30000
+    }
+}

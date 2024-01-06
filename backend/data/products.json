@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Protien Powder",
+        "productId": 100,
+        "quantity": 0,
+        "price": 349
+    },
+    {
+        "name": "Fitness Tracker",
+        "productId": 108,
+        "quantity": 0,
+        "price": 149
+    },
+    {
+        "name": "Water Bottle",
+        "productId": 103,
+        "quantity": 0,
+        "price": 99
+    },
+    {
+        "name": "Headset",
+        "productId": 104,
+        "quantity": 0,
+        "price": 249
+    },
+    {
+        "name": "Workout Gear",
+        "productId": 102,
+        "quantity": 0,
+        "price": 590
+    },
+    {
+        "name": "Whey Protien",
+        "productId": 105,
+        "quantity": 0,
+        "price": 2000
+    },
+    {
+        "name": "Creatine",
+        "productId": 106,
+        "quantity": 0,
+        "price": 999
+    },
+    {
+        "name": "Fat Burner",
+        "productId": 107,
+        "quantity": 0,
+        "price": 349
+    },
+    {
+        "name": "Fish Oil",
+        "productId": 101,
+        "quantity": 0,
+        "price": 289
+    }
+]
